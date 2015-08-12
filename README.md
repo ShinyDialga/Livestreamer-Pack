@@ -9,6 +9,6 @@ Features
 * Less environment in the way (clouds, moon, sun, rain, and snow)
 * Invisible GUIs (chests, dispensers, etc.)
 * Distinguishable bow firing stages
-* Invisible compass
+* Invisible compass, rabbit's foot, and written book
 * No pumpkin blur when wearing on head
 * Particles that look like "+1" to show criticals
